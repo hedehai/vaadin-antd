@@ -1,2 +1,15 @@
-# vaadin-antd
-ant design for vaadin
+# ant design for vaadin
+## 是什么？
+它是ant design的vaadin实现，让java开发人员只使用java语言就可以开发出ant design风格的界面。
+
+## 为什么有这个项目?
+- ant design是国内使用最为广泛的几个UI组件库之一，有众多的实现，比如react的实现，vue的实现，.net blazor的实现等，但却没有vaadin的实现。 
+- vaadin现有的组件库，在审美上偏西化，需要做较多的样式调整才能投入使用，而ant design贴合国人审美，样式上基本只要微调就可以。
+- 近几年企业都在搞降本增效，前后端全栈（全干）的模式在ToB领域越来越流行。对于java开发人员来说，如果要全栈开发，需要额外学习前端技术，学习曲线陡峭。而使用vaadin + 本组件库，java开发只需要使用java语言就可以快速上手web界面开发。
+  
+## 这个项目适合什么场景？
+- 交互相对固定的领域，比如ToB类系统。
+- 对研发效能敏感的企业/团队。
+  
+## 这个项目不适合什么场景？
+- 交互极度灵活的领域，比如ToC类系统。
