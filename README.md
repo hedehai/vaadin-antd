@@ -1,6 +1,6 @@
 # ant design for vaadin
 ## 是什么？
-它是ant design的vaadin实现，让java开发人员只使用java语言就可以开发出ant design风格的界面。
+它是ant design的vaadin实现，让java开发人员只使用java语言就可以快速开发出ant design风格的中后台界面。
 
 ## 为什么有这个项目?
 - ant design是国内使用最为广泛的几个UI组件库之一，有众多的实现，比如react的实现，vue的实现，.net blazor的实现等，但却没有vaadin的实现。 
